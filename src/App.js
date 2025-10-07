@@ -10,7 +10,7 @@ function App() {
   const [skills, setSkills] = useState([]); // skills as array of strings
   const [message, setMessage] = useState(null);
 
-  const API = config.API_URL;
+  const API = https://ead-marks-project-backend.onrender.com;
 
   // Define skill options
   const skillOptions = [
@@ -158,3 +158,4 @@ function App() {
 }
 
 export default App;
+
