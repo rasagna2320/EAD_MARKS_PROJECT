@@ -149,7 +149,7 @@ function App() {
           </form>
 
           <div className="mt-3 text-muted text-center">
-            All rights reserved &#xA9; 2025 CBIT-IT @kgr.
+            All rights reserved &#xA9; 2025 .
           </div>
         </div>
       </div>
@@ -158,4 +158,5 @@ function App() {
 }
 
 export default App;
+
 
